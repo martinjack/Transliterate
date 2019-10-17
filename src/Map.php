@@ -1,6 +1,6 @@
 <?php
 
-declare(strict_types=1);
+declare (strict_types = 1);
 
 namespace ElForastero\Transliterate;
 
@@ -14,6 +14,6 @@ abstract class Map
     public const LANG_RU = 'ru';
     public const LANG_UK = 'uk';
 
-    public const DEFAULT = 'common';
+    public const DEFAULT_MAP    = 'common';
     public const GOST_7_79_2000 = 'GOST_7.79.2000';
 }
