@@ -28,8 +28,8 @@
 - ext-intl
 
 ## Установка
-```
-> composer require elforastero/transliterate
+```sh
+composer require jackmartin/transliterate
 ```
 
 Laravel начиная с версии *5.5* не нуждается в дополнительной конфигурации благодаря механизму Package Discovery.
