@@ -1,8 +1,6 @@
 ## Transliterate
 
-![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
-![GitHub release](https://img.shields.io/github/release/elforastero/transliterate.svg)
-![Packagist](https://img.shields.io/packagist/dt/elforastero/transliterate.svg)
+[![Latest Stable Version](https://poser.pugx.org/jackmartin/transliterate/v)](//packagist.org/packages/jackmartin/transliterate) [![Total Downloads](https://poser.pugx.org/jackmartin/transliterate/downloads)](//packagist.org/packages/jackmartin/transliterate) [![License](https://poser.pugx.org/jackmartin/transliterate/license)](//packagist.org/packages/jackmartin/transliterate)
 
 Небольшой пакет для транслитерации кириллицы с возможностью создания своих собственных карт транслитерации.
 
